@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Reid! </h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+  - [Cyber Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+<h2> Certifications </h2>
+
+- [CompTIA A+]()
+
+<h2> 🤳 Connect with me on LinkedIn:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: www.linkedin.com/in/reid-callender-bab777319
 
 <!--
-**reidcallender/reidcallender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
