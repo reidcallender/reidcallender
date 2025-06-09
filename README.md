@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/reidcallender/ActiveDirectoryLab)
  
-  - [Cyber Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Cyber Home Lab](https://github.com/reidcallender/SOCHomeLab/tree/main) 
 <h2> Certifications </h2>
 
 - [CompTIA A+](https://imgur.com/a/gvgPfyK)
